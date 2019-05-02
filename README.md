@@ -14,4 +14,6 @@ In ```autoaugment.py```, there are 25 subpolicies trained from a reduced CIFAR-1
 Implementation ported from https://github.com/DeepVoltaire/AutoAugment
 
 ## Cutout:
-- [Improved Regularization of Convolutional Neural Networks with Cutout](https://arxiv.org/abs/1708.04552 "Original Paper")
+- [Improved Regularization of Convolutional Neural Networks with Cutout](https://arxiv.org/abs/1708.04552 "Original Paper")  
+
+My implementation in ```cutout.py```
