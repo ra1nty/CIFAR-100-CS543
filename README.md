@@ -18,6 +18,10 @@ Implementation ported from https://github.com/DeepVoltaire/AutoAugment
 
 My implementation in ```cutout.py```
 
+## RandomErasing:
+- [Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896 "Original Paper")  
+
+```random_erasing.py``` contains the original author's implementation https://github.com/zhunzhong07/Random-Erasing
 
 ## Implementation Details
 Default script will run WRN-28-10: wide residual network with depth=28 and k=10 (widen factor)  
