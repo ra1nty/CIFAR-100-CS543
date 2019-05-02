@@ -1,4 +1,5 @@
 import numpy as np
+import torch
 
 class CutOut(object):
     """Cutout an image tensor image with n holes with size length.
